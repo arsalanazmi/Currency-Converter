@@ -1,6 +1,6 @@
 {
   "name": "arsalan-azmi-currency-converter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple currency converter using typeScript, Node.js & Inquirer.",
   "main": "index.js",
   "type": "module",
