@@ -1,9 +1,12 @@
 {
-  "name": "arsalan-azmi-currency-converter",
-  "version": "1.0.3",
+  "name": "@arslanazmi92/currency-converter",
+  "version": "1.0.4",
   "description": "A simple currency converter using typeScript, Node.js & Inquirer.",
   "main": "index.js",
   "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
   "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
